@@ -289,7 +289,8 @@ var settings = {
 					hideOnSwipe: true,
 					resetScroll: true,
 					resetForms: true,
-					side: 'right'
+					// TODO
+					side: 'left'
 				});
 
 		// Header.
