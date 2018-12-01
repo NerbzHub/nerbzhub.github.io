@@ -1686,7 +1686,7 @@
 				left: 0;
 				width: 50%;
 				height: 1px;
-				background-color: rgba(0, 0, 0, 0.125);
+				background-color: rgb(0, 0, 0);
 			}
 
 	h1, h2, h3, h4, h5, h6 {
